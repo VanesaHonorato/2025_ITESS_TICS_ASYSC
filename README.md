@@ -4,23 +4,23 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/sQJ3nWd.png" width="200" alt="Cinnamoroll">
+  <img src="C:\Users\vanes\Downloads\a908949430f3bea3337447bab3dd2c2f.jpg" width="200" alt="Cinnamoroll">
 </p>
 
 ---
 
 ## 🐰💙 Bienvenid@ a mi repositorio
-Este es mi repositorio para la materia **ANALISIS Y SISTEMAS DE COMUNICACIÓN*.  
+Este es mi repositorio para la materia ANALISIS Y SISTEMAS DE COMUNICACIÓN.  
 Aquí guardo  **examen**, **prácticas** y **notebooks de Python**.  
 
 ---
 
 ## 📁 Contenido del repositorio
 
-- 📘 **Examen RLC**
-- 🧮 **Series de Fourier**
-- 🐍 **Programas en Python**
-- 💻 **Archivos .ipynb**
+- **Examen RLC**
+- **Series de Fourier**
+- **Programas en Python**
+- **Archivos .ipynb**
 
 ---
 
