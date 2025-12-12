@@ -24,7 +24,6 @@ Aquí guardo **examen**, **prácticas** y **notebooks de Python**.
 
 ---
 
-## 🩵 Código de ejemplos
 ```python
 import numpy as np
 print("Hola🩵")
